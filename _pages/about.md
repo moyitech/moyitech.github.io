@@ -80,7 +80,7 @@ I mainly developed two AIGC applications based on GPT-4:
 + Self-LLM(Open Source Large Model User Guide): [https://github.com/datawhalechina/self-llm/](https://github.com/datawhalechina/self-llm/) \| Core Contributor \| 15.5k stars 🌟
 + Tiny-Universe \| [https://github.com/datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) \| 2.9k stars 🌟
 
-## Mutuan AI
+## Mutual AI
 
 We created this project to make the boring and difficult-to-understand algorithms of AI interesting, and to teach learners how to apply AI to real-life situations.  
 
