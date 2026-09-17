@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home Page"
+title                    : "Zeyu Wang"
 title_separator          : "-"
-name                     : &name "Wang Zeyu"
-description              : &description "An undergraduate student from Taiyuan University of Technology"
+name                     : &name "Zeyu Wang"
+description              : &description "MPhil student at The Hong Kong University of Science and Technology (Guangzhou)."
 url                      : https://moyitech.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "moyitech/moyitech.github.io"
@@ -23,11 +23,11 @@ repository               : "moyitech/moyitech.github.io"
 author:
   # Biographic information
   avatar           : "wzy.png"
-  name             : "Wang Zeyu"
+  name             : "Zeyu Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Coding is the greatest pleasure!"
-  location         : "Beijing"
-  employer         : "Taiyuan University of Technology"
+  bio              : "MPhil student at HKUST(GZ)"
+  location         : "Guangzhou"
+  employer         : "HKUST(GZ)"
   uri              : # URL
   email            : "admin@9998k.cn" 
 
