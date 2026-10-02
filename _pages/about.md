@@ -18,28 +18,27 @@ I enjoy building open-source tools and sharing what I learn through [GitHub](htt
 - **The Hong Kong University of Science and Technology (Guangzhou)** — Research Master's in Artificial Intelligence, September 2026–June 2028 (expected).
 - **Taiyuan University of Technology** — Bachelor's in Computer Science and Technology, September 2022–June 2026. **Comprehensive Assessment Rank: 2/149**.
 
-## Research Experience
+## Research & Publications
 
 ### IDEA — Controllable Creative Writing
 
 *July 2025–April 2026*
 
-Worked on improving short-form video script generation, moving from a hosted R1 API to a local Qwen2.5-7B model. Combined expert-guided cold-start data, distillation, and data filtering with GRPO using natural-language critiques as a non-rule-based reward, improving informativeness and rhetorical quality. Related paper: *From Homogeneity to Diversity: Self-Refined GRPO for Controllable Creative Writing*, accepted to **Findings of EMNLP 2026**.
+Worked on improving short-form video script generation, moving from a hosted R1 API to a local Qwen2.5-7B model. Combined expert-guided cold-start data, distillation, and data filtering with GRPO using natural-language critiques as a non-rule-based reward, improving informativeness and rhetorical quality.
+
+**From Homogeneity to Diversity: Self-Refined GRPO for Controllable Creative Writing**<br>
+Minna Peng, Wei Tan, **Zeyu Wang**, Yongquan Hu, Ruizhi Huang, Yang Jie.<br>
+*Accepted to Findings of EMNLP 2026.*
 
 ### MIHRI Lab, Taiyuan University of Technology — Audio-Visual Speaker Tracking
 
 *May 2024–December 2024*
 
-Worked on a three-stage multimodal distillation framework using SiamFC and stGCF, with symmetric cross-attention for audio-visual fusion. Achieved a mean absolute tracking error of **3.02 pixels** on AV16.3. This work appeared at **ICASSP 2025**; I was the third author.
+Worked on a three-stage multimodal distillation framework using SiamFC and stGCF, with symmetric cross-attention for audio-visual fusion. Achieved a mean absolute tracking error of **3.02 pixels** on AV16.3. I was the third author.
 
-## Papers
-
-- **From Homogeneity to Diversity: Self-Refined GRPO for Controllable Creative Writing**<br>
-  Minna Peng, Wei Tan, **Zeyu Wang**, Yongquan Hu, Ruizhi Huang, Yang Jie.<br>
-  *Accepted to Findings of EMNLP 2026.*
-- **Multi-Stage Multimodal Distillation for Audio-Visual Speaker Tracking**<br>
-  Yidi Li, Wenkai Zhao, **Zeyu Wang**, Zhenhuan Xu, Bin Ren, Nicu Sebe.<br>
-  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.* [DOI](https://doi.org/10.1109/ICASSP49660.2025.10888838)
+**Multi-Stage Multimodal Distillation for Audio-Visual Speaker Tracking**<br>
+Yidi Li, Wenkai Zhao, **Zeyu Wang**, Zhenhuan Xu, Bin Ren, Nicu Sebe.<br>
+*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.* [DOI](https://doi.org/10.1109/ICASSP49660.2025.10888838)
 
 ## Internships
 
