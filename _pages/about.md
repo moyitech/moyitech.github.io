@@ -63,7 +63,7 @@ Developed GPT-4-based translation and customer-support applications using Milvus
 
 ## Projects & Open Source
 
-- **[2026 Tencent Rhino-Bird Open Source Talent Program — Hunyuan LLM track](https://opensource.tencent.com/summer-of-code/)** — Selected for the practical project phase. Project outcomes are pending official announcement.
+- **[2026 Tencent Rhino-Bird Open-Source Talent Program (Hunyuan LLM track)](https://opensource.tencent.com/summer-of-code/)** — Selected for the practical project phase and one of only **three participants** to receive the **Open-Source Task cash award**. [Official announcement](https://mp.weixin.qq.com/s/jYHU1exImv8XU9z0fgJ-UQ?color_scheme=light&scene=1)
 - **[TYUT AI Counselor](https://mp.weixin.qq.com/s/It5YYVXDfUXFA7APnv7kkg)** — Initiator and lead developer. Built a campus information assistant with hybrid retrieval and prompt-injection screening; used **100,000+ times** across the university and featured in *Shanxi Daily*.
 - **Home Agent** — Team leader and lead developer. Extended Blockly to support Xiaomi smart-home APIs and fine-tuned Qwen3 with LoRA to translate natural language into JSON blocks. Won the **Hardcore Technology Award (1/98)** at the Qwen On-Device AI Innovation Challenge in December 2025.
 - **AI Interviewer** — Team leader and lead developer. Built a multi-agent workflow for resume assessment, RAG-based question retrieval, answer evaluation, and scoring.
@@ -72,6 +72,7 @@ Developed GPT-4-based translation and customer-support applications using Milvus
 
 ## Selected Awards
 
+- **Open-Source Task cash award (one of three recipients)** — 2026 Tencent Rhino-Bird Open-Source Talent Program (Hunyuan LLM track). [Official announcement](https://mp.weixin.qq.com/s/jYHU1exImv8XU9z0fgJ-UQ?color_scheme=light&scene=1)
 - **National Second Prize & First Place in Shanxi Province** — National College Student Career Planning Competition, 2026.
 - **Hardcore Technology Award (1/98)** — Qwen On-Device AI Innovation Challenge, 2025; team leader.
 - **AMD Hardware Optimization Award (2/50)** — Alibaba ModelScope MCP & Agent Challenge, 2025; team leader.

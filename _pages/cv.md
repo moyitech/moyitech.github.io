@@ -89,10 +89,10 @@ December 2023–June 2024
 
 ## Open Source
 
-### [2026 Tencent Rhino-Bird Open Source Talent Program — Hunyuan LLM track](https://opensource.tencent.com/summer-of-code/)
+### [2026 Tencent Rhino-Bird Open-Source Talent Program (Hunyuan LLM track)](https://opensource.tencent.com/summer-of-code/)
 
 Selected for the practical project phase · August 2026<br>
-Project outcomes pending official announcement.
+One of only **three participants** to receive the **Open-Source Task cash award**. [Official announcement](https://mp.weixin.qq.com/s/jYHU1exImv8XU9z0fgJ-UQ?color_scheme=light&scene=1)
 
 ### [self-llm](https://github.com/datawhalechina/self-llm)
 
@@ -140,6 +140,7 @@ Team leader and lead developer · December 2023
 
 ## Awards
 
+- **2026 — Open-Source Task cash award (one of three recipients)**, Tencent Rhino-Bird Open-Source Talent Program (Hunyuan LLM track). [Official announcement](https://mp.weixin.qq.com/s/jYHU1exImv8XU9z0fgJ-UQ?color_scheme=light&scene=1)
 - **April 2026 — National Second Prize & First Place in Shanxi Province**, National College Student Career Planning Competition.
 - **December 2025 — Hardcore Technology Award (1/98)**, Qwen On-Device AI Innovation Challenge; team leader.
 - **September 2025 — AMD Hardware Optimization Award (2/50)**, Alibaba ModelScope MCP & Agent Challenge; team leader.
