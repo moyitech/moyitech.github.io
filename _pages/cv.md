@@ -91,7 +91,6 @@ December 2023–June 2024
 
 ### [2026 Tencent Rhino-Bird Open-Source Talent Program (Hunyuan LLM track)](https://opensource.tencent.com/summer-of-code/)
 
-Selected for the practical project phase · August 2026<br>
 One of only **three participants in the Hunyuan LLM track** to receive the **Open-Source Task cash award**. [Official announcement](https://mp.weixin.qq.com/s/jYHU1exImv8XU9z0fgJ-UQ?color_scheme=light&scene=1)
 
 ### [self-llm](https://github.com/datawhalechina/self-llm)

@@ -63,7 +63,7 @@ Developed GPT-4-based translation and customer-support applications using Milvus
 
 ## Projects & Open Source
 
-- **[2026 Tencent Rhino-Bird Open-Source Talent Program (Hunyuan LLM track)](https://opensource.tencent.com/summer-of-code/)** — Selected for the practical project phase and one of only **three participants in the Hunyuan LLM track** to receive the **Open-Source Task cash award**. [Official announcement](https://mp.weixin.qq.com/s/jYHU1exImv8XU9z0fgJ-UQ?color_scheme=light&scene=1)
+- **[2026 Tencent Rhino-Bird Open-Source Talent Program (Hunyuan LLM track)](https://opensource.tencent.com/summer-of-code/)** — One of only **three participants in the Hunyuan LLM track** to receive the **Open-Source Task cash award**. [Official announcement](https://mp.weixin.qq.com/s/jYHU1exImv8XU9z0fgJ-UQ?color_scheme=light&scene=1)
 - **[TYUT AI Counselor](https://mp.weixin.qq.com/s/It5YYVXDfUXFA7APnv7kkg)** — Initiator and lead developer. Built a campus information assistant with hybrid retrieval and prompt-injection screening; used **100,000+ times** across the university and featured in *Shanxi Daily*.
 - **Home Agent** — Team leader and lead developer. Extended Blockly to support Xiaomi smart-home APIs and fine-tuned Qwen3 with LoRA to translate natural language into JSON blocks. Won the **Hardcore Technology Award (1/98)** at the Qwen On-Device AI Innovation Challenge in December 2025.
 - **AI Interviewer** — Team leader and lead developer. Built a multi-agent workflow for resume assessment, RAG-based question retrieval, answer evaluation, and scoring.
