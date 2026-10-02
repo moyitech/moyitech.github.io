@@ -15,7 +15,7 @@ I enjoy building open-source tools and sharing what I learn through [GitHub](htt
 
 ## Education
 
-- **The Hong Kong University of Science and Technology (Guangzhou)** — Research Master's in Artificial Intelligence, September 2026–June 2028 (expected).
+- **The Hong Kong University of Science and Technology (Guangzhou)** — Master of Philosophy (MPhil) in Artificial Intelligence, September 2026–June 2028 (expected).
 - **Taiyuan University of Technology** — Bachelor's in Computer Science and Technology, September 2022–June 2026. **Comprehensive Assessment Rank: 2/149**.
 
 ## Research & Publications
